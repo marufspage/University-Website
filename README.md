@@ -1,3 +1,4 @@
-## A simple static website for BGC Trust University Bangladesh.
+## Simple website for my university
 
-Contributor : [Marufur Rahman](https://github.com/marufurrahman)
+**Contributors**
+[Marufur Rahman](https://github.com/marufurrahman)
